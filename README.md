@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 
-<h1 align="center">I'm Methun Khan</h1>
+<h1 align="center">I'm Methun Hossain</h1>
 
 <h3 align="center">
 💻 Software Engineer | 🤖 AI & ML Enthusiast | 🎓 CSE Final Year Student
