@@ -112,7 +112,7 @@ To become a Full-Stack Engineer and AI/ML innovator who builds scalable, intelli
 - 📧 Email: methun.khan01@gmail.com  
 - 📍 Dhaka, Bangladesh  
 - 💼 LinkedIn: https://linkedin.com/in/methun-khan  
-- 🌐 Portfolio: https://methunkhan.vercel.app  
+- 🌐 Portfolio: https://clever-dieffenbachia-a10658.netlify.app/ 
 
 ---
 
