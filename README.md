@@ -93,10 +93,12 @@ To become a Full-Stack Engineer and AI/ML innovator who builds scalable, intelli
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=methun01-khan&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methun01-khan&layout=compact&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=methun01-khan&show_icons=true&theme=tokyonight)
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methun01-khan&layout=compact&theme=tokyonight)
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=methun01-khan&theme=tokyonight)
 
 ---
 
